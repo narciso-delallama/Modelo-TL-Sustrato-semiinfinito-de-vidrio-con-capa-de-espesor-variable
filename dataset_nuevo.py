@@ -5,7 +5,7 @@ from tqdm import tqdm
 
 
 
-# === GENERAR LOS 100 ESPECTROS ===
+# === GENERAR LOS ESPECTROS ===
 n_spectra = 100000
 # Valores de energía para el dataset
 dataset = []
